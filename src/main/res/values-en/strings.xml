@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">football counter</string>
+    <string name="addbtn">Add</string>
+    <string name="ros">Russia</string>
+    <string name="germ">Germani</string>
+    <string name="resbtn">Reset</string>
+</resources>

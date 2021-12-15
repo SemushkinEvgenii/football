@@ -1,0 +1,8 @@
+<resources>
+    <string name="addbtn">добавть счет</string>
+    <string name="ros">Россия</string>
+    <string name="germ">Германия</string>
+    <string name="app_name">Футбольный счетчик</string>
+    <string name="resbtn">Сбросить</string>
+    <string name="centerpointer" translatable="false">:</string>
+</resources>
